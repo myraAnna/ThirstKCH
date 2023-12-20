@@ -8,8 +8,8 @@ Thank you for your understanding! We'll notify you as soon as the live deploymen
 
 ###In the meantime, don't forget to scroll to our other personal projects.###
 
-Myra Annatasha       : https://github.com/myraAnna
-Zetty Elica          : https://github.com/zettyaffandi
-Mohd. Haziq Qayyim   : https://github.com/Hay-Zii8
+<p> Myra Annatasha       : https://github.com/myraAnna </p>
+<p> Zetty Elica          : https://github.com/zettyaffandi </p>
+<p> Mohd. Haziq Qayyim   : https://github.com/Hay-Zii8 </p>
 
 ![2](https://github.com/myraAnna/ThirstKCH/assets/86984336/58607a0a-9b61-463b-b91c-9ba6f4a43af1)
