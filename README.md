@@ -16,8 +16,8 @@ To experience the full capabilities of our project, follow these steps to downlo
 Register a new membership if you dont have any
 
 *For Admin Management System*
-email: admin@admin.com 
-password: admin0123
+<p> email: admin@admin.com </p>
+<p> password: admin0123 </p>
 
 Your exploration of the system's functionalities is greatly encouraged!
 
