@@ -6,6 +6,10 @@ Stay tuned for further updates! Your patience is highly appreciated as we finali
 
 Thank you for your understanding! We'll notify you as soon as the live deployment is ready.
 
-![1](https://github.com/myraAnna/ThirstKCH/assets/86984336/25e43ed9-4c07-4156-b3ba-a448b5315a98)
+###In the meantime, don't forget to scroll to our other personal projects.###
+
+Myra Annatasha       : https://github.com/myraAnna
+Zetty Elica          : https://github.com/zettyaffandi
+Mohd. Haziq Qayyim   : https://github.com/Hay-Zii8
 
 ![2](https://github.com/myraAnna/ThirstKCH/assets/86984336/58607a0a-9b61-463b-b91c-9ba6f4a43af1)
