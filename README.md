@@ -21,16 +21,6 @@ Register a new membership if you don't have any.
 
 Your exploration of the system's functionalities is greatly encouraged!
 
-## Meet Our Team
-
-Get to know the brilliant minds contributing to this project:
-
-- [Myra Annatasha](https://github.com/myraAnna)
-- [Zetty Elica](https://github.com/zettyaffandi)
-- [Mohd. Haziq Qayyim](https://github.com/Hay-Zii8)
-
-Feel free to connect with us for any inquiries or collaboration opportunities!
-
 Thank you for your understanding and support! Stay tuned for further updates and an extraordinary experience with our ThirstKCH application soon.
 
 
